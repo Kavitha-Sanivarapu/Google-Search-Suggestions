@@ -1,0 +1,10 @@
+/* Write your CSS here */
+.list-container {
+  width: 500px;
+  display: flex;
+  /* justify-content: space-between; */
+}
+.arrow-icon {
+  height: 30px;
+  width: 30px;
+}
